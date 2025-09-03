@@ -1,10 +1,10 @@
-📊 Customer Retention & Churn Insights Dashboard
+## Customer Retention & Churn Insights Dashboard
 
-📌 Project Overview
+# Project Overview
 
 This project analyses customer churn to uncover the key drivers behind customer attrition and provide actionable insights for retention strategies. The dashboard highlights churn patterns across demographics, contracts, and regions, helping businesses identify why customers leave and how to reduce churn.
 
-🎯 Key Questions Answered
+ # Key Questions Answered
 
 •	What is the overall churn rate and how significant is it?
 
@@ -16,7 +16,7 @@ This project analyses customer churn to uncover the key drivers behind customer 
 
 •	How does churn vary across different age groups?
 
-🛠️ Tech Stack
+# Tech Stack
 
 •	Power BI Desktop – for dashboard creation & visualization
 
@@ -24,7 +24,7 @@ This project analyses customer churn to uncover the key drivers behind customer 
 
 •	DAX (Data Analysis Expressions) – for calculated measures and KPIs
 
-📈 Dashboard Features
+# Dashboard Features
 
 •	KPI Snapshot – Overall churn rate, customer base, churned customers
 
@@ -38,7 +38,7 @@ This project analyses customer churn to uncover the key drivers behind customer 
 
 •	Demographic Filter – Interactive age group filter for deeper analysis
 
-🔑 Key Insights
+# Key Insights
 
 •	Overall churn rate: 26.86% (1,796 of 6,687 customers)
 
