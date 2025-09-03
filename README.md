@@ -47,7 +47,3 @@ This project analyses customer churn to uncover the key drivers behind customer 
 •	Month-to-month customers (51%) are the most churn-prone compared to yearly contracts
 
 •	Higher churn clusters found in southern and western U.S. states
-
-📷 Dashboard Preview
-
-<img width="1265" height="714" alt="Screenshot 2025-09-03 121305" src="https://github.com/user-attachments/assets/1c21f174-e371-4650-93b7-3d65570514b8" />
